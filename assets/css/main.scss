@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+.site-logo img {
+  max-height: 3rem;
+}
+#site-nav .site-title {
+  display:none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif!important;
+  color: #3b3b3a;
+}
+
+a {
+  color: #3b006f;
+}
+h1 {
+  font-weight: 700;
+}
+
+h2, h3, h4, h5, h6, h7 {
+  font-weight: 300;
+}
+
+.page__footer-follow {
+  display:none;
+}
+
+.page__footer {
+  background-color: #3b006f;
+  color: white;
+}
+
+.greedy-nav a {
+  color: #3b3b3a;
+}
+
+.greedy-nav a:hover {
+  color: #3b006f;
+}
+.greedy-nav .visible-links a::before  {
+  background: #3b006f;
+}
