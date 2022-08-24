@@ -8,7 +8,7 @@ header:
 "
   cta_url: "https://google.com"
   caption: ''
-excerpt: 'Cloud-native energy data storage architecture for AI, ML, and HPC fastworkflows'
+excerpt: 'Open source cloud-native energy data storage architecture for AI, ML, and HPC fastworkflows'
 feature_row:
   - image_path: '/assets/images/cloud.png'
     alt: "Cloud-native, chunked, and compressed"
