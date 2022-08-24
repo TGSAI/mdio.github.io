@@ -33,14 +33,14 @@ feature_row:
     alt: "Optimized for distributed computing and ML"
     title: "Optimized for distributed computing and ML"
     excerpt: "<ul>
-                <li>Support for massively parallel compute through OSS ecosystem</li>
+                <li>Support for massively parallel compute through open source software ecosystem</li>
                 <li>Ideal for patch extraction for deep learning</li>
               </ul>"
     #url: "/docs/license/"
     #btn_label: "Learn More"
 ---
 
-Built on top of Zarr, MDIO is an essential enabler in the energy data space for quickly accessing and disseminating data on the cloud. This new fully open-source format, and associated algorithms, have been specifically designed to support the storage and manipulation of multidimensional datasets, including seismic and wind modeling data. MDIO allows for innovative growth in a wide variety of applications, including seismic and renewable energy solutions, and the algorithms' continued evolution to benefit other industry sectors.
+Built on top of [Zarr](https://zarr.dev/), MDIO is an essential enabler in the energy data space for quickly accessing and disseminating data on the cloud. This new fully open-source format, and associated algorithms, have been specifically designed to support the storage and manipulation of multidimensional datasets, including seismic and wind modeling data. MDIO allows for innovative growth in a wide variety of applications, including seismic and renewable energy solutions, and the algorithms' continued evolution to benefit other industry sectors.
 
 
 {% include feature_row id="intro" type="center" %}
