@@ -50,3 +50,9 @@ h2, h3, h4, h5, h6, h7 {
 .greedy-nav .visible-links a::before  {
   background: #3b006f;
 }
+.archive__item-teaser img {
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
