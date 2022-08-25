@@ -6,9 +6,9 @@ header:
   overlay_image: /assets/images/features.png
   cta_label: "Get Started in 10 Minutes 
 "
-  cta_url: "https://google.com"
+  cta_url: "https://mdio-python.readthedocs.io/en/latest/notebooks/quickstart.html"
   caption: ''
-excerpt: 'Open source cloud-native energy data storage architecture for AI, ML, and HPC fastworkflows'
+excerpt: 'Open source cloud-native energy data storage architecture for AI, ML, and HPC workflows'
 feature_row:
   - image_path: '/assets/images/cloud.png'
     alt: "Cloud-native, chunked, and compressed"

@@ -1,5 +1,5 @@
 main:
   - title: "Documentation"
-    url: 'https://mdio-python.readthedocs.io/en/latest/'
+    url: 'https://mdio-python.readthedocs.io/'
   - title: "GitHub"
     url: 'https://github.com/TGSAI/mdio-python'
